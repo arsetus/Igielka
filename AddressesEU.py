@@ -25,3 +25,4 @@ target_x_offset = 0x50 #offset from target attack address
 target_y_offset = 0x54 #offset from target attack address
 target_z_offset = 0x58 #offset from target attack address
 target_hp_offset = 0xB0 #offset from target attack address
+
