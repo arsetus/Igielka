@@ -1,0 +1,23 @@
+{
+    "combo_data": {
+        "hot1": "1",
+        "hot1delay": "222",
+        "hot2": "2",
+        "hot2delay": "222",
+        "hot3": "3",
+        "hot3delay": "222",
+        "hot4": "4",
+        "hot4delay": "222",
+        "hot5": "5",
+        "hot5delay": "222",
+        "hot6": "6",
+        "hot6delay": "222",
+        "hot7": "7",
+        "hot7delay": "222",
+        "hot8": "f4",
+        "modifier": 0,
+        "modifier2": 0,
+        "comboHot": "r",
+        "onTarget": false
+    }
+}

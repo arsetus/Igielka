@@ -1,0 +1,15 @@
+{
+    "settings_data": {
+        "takeAllX": 0,
+        "takeAllY": 0,
+        "takeAllcolorR": 0,
+        "takeAllcolorG": 0,
+        "takeAllcolorB": 0,
+        "takeAllDelay": "50",
+        "eqSetX": 0,
+        "eqSetY": 0,
+        "dashHotModifier": 2,
+        "dashHotModifier2": 0,
+        "dashHotkey": "f"
+    }
+}
