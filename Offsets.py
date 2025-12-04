@@ -1,3 +1,4 @@
+my_stats_address = 0xBABD80
 my_x_address = 0x50 #static address
 my_y_address = 0x54 #static address
 my_z_address = 0x58 #static address
@@ -14,6 +15,7 @@ my_skin_offset = 0x148 #offset from localplayer
 my_dir_offset = 0xBC #offset from localplayer
 
 # Target Addresses
+attack_address = 0xBABD88
 attack_address_offset = []
 target_name_offset = 0x98 #offset from target attack address
 target_x_offset = 0x50 #offset from target attack address
