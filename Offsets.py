@@ -1,6 +1,6 @@
 aob64 = b"\x55\x41\x56\x41\x57\x48\x8D\xAC.....\x48\x81\xEC....\x48\x8B\x05....\x48\x33\xC4\x48\x89\x85....\x48\x8B\xF9"
 aob32 = b"\x55\x41\x56\x41\x57\x48\x8D\xAC.....\x48\x81\xEC....\x48\x8B\x05....\x48\x33\xC4\x48\x89\x85....\x48\x8B\xF9"
-my_stats_address = 0xBABD80
+my_stats_address = 0#xBABD80
 my_x_address = 0x50 #static address
 my_y_address = 0x54 #static address
 my_z_address = 0x58 #static address
@@ -17,7 +17,7 @@ my_skin_offset = 0x148 #offset from localplayer
 my_dir_offset = 0xBC #offset from localplayer
 
 # Target Addresses
-attack_address = 0xBABD88
+attack_address = 0#xBABD88
 attack_address_offset = []
 target_name_offset = 0x98 #offset from target attack address
 target_x_offset = 0x50 #offset from target attack address
