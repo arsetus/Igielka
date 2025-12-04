@@ -34,8 +34,8 @@ class InfoThread(QThread):
                 else:
                     self.playerLabel.setText(f"Player\nX: Y: Z:\nHP: 0/0\nMP: 0/0\nStamina:")
                 if self.context.target_x:
-                    self.targetLabel.setText(f"Target\nID: {self.context.target_id}\nName: {self.context.target_name}\nX:{self.context.target_x} Y:{self.context.target_y} Z:{self.context.target_z}\nHP: {self.context.target_hp} %")
-                    print(self.targetLabel.text())
+                    #self.targetLabel.setText(f"Target\nID: {self.context.target_id}\nName: {self.context.target_name}\nX:{self.context.target_x} Y:{self.context.target_y} Z:{self.context.target_z}\nHP: {self.context.target_hp} %")
+                    self.targetLabel.setText("ss")
                 else:
                     self.targetLabel.setText(f"Target\nID: \nName: \nX: Y: Z:\nHP: %")
 
@@ -44,4 +44,5 @@ class InfoThread(QThread):
 
     def stop(self):
         self.running = False
+
 
